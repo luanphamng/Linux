@@ -1,0 +1,5 @@
+# List tty
+dmesg | grep -i tty
+
+#PATH
+export PATH=$PATH:/home/pmluan/esp/xtensa-esp32-elf/bin
